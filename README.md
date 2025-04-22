@@ -28,3 +28,4 @@ go build llm-client
 ./llm-client
 ```
 
+![llm-client screenshot](llm-client screenshot)
