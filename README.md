@@ -9,3 +9,22 @@ This code is not production-ready and is intended solely for proof-of-concept (P
 
 1) [`llm-server`](https://github.com/rraghura102/llm-server) is running.
 
+# MAC ARM Build
+
+1) Build and Run
+
+```
+rm llm-client
+rm go.*
+
+go mod init llm-client
+go mod tidy
+go build llm-client
+```
+
+# Run 
+
+```
+./llm-client
+```
+
