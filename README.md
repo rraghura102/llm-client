@@ -29,8 +29,3 @@ go build llm-client
 ```
 
 ![llm-client screenshot](llm-client-screenshot.png)
-
-### License
-
-© 2025 Rayan Raghuram. All rights reserved.
-This project is licensed under the MIT License.
