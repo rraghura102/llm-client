@@ -9,13 +9,18 @@ This code is not production-ready and is intended solely for proof-of-concept (P
 
 1) [`llm-server`](https://github.com/rraghura102/llm-server) is running.
 
+2) Clone Repository
+
+```
+git clone https://github.com/rraghura102/llm-server.git
+```
+
 # MAC ARM Build
 
 1) Build and Run
 
 ```
-rm llm-client
-rm go.*
+cd llm-client
 
 go mod init llm-client
 go mod tidy
